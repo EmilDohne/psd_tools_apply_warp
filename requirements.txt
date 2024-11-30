@@ -1,0 +1,4 @@
+numba
+numpy
+opencv-python
+psd_tools
